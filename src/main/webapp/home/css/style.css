@@ -1533,7 +1533,7 @@ footer {
 	font-size: 20px;
 	line-height: 30px;
 	color: #dd4250;
-	overflow: hidden;
+	/*overflow: hidden;*/
 	text-overflow: ellipsis;
 	white-space: nowrap;
 }

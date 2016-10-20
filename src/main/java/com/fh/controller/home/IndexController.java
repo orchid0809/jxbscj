@@ -69,4 +69,11 @@ public class IndexController extends BaseController{
 		ModelAndView modelAndView = new CModelAndView("common/tail.html",request,response);
 		return modelAndView;
 	}
+
+	@RequestMapping("/add_customer_info")
+	public String addCustomerInfo(){
+
+
+		return "";
+	}
 }
